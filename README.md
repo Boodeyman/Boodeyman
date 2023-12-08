@@ -1,4 +1,4 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d)]
+[![MasterHead]([https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Fshivavashishtha%2Feda01-what-is-eda-and-its-types&psig=AOvVaw3ZRGztrSBVA8nQ16DnR6Zq&ust=1702117435360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjAzoPQ_4IDFQAAAAAdAAAAABAI))]
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 <h3 align="center">Student from Russia. Studying on Data Analytics course.</h3>
 
