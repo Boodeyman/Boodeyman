@@ -1,4 +1,4 @@
-[![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)]
+![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 <h3 align="center">Student from Russia. Studying on Data Analytics course.</h3>
 
