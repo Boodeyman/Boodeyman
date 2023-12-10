@@ -20,5 +20,5 @@
 - 🌱 I’m currently learning **Pandas, Mathpolotlib, Seaborn, Numpe, Streamlit**
 
 - 📫 How to reach me **bogdafan31@gmail.com**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boodeyman&theme=dark&" width="60%" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boodeyman&theme=dark&show_icons=true&locale=en" width="60%" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boodeyman&theme=dark&show_icons=true&locale=en&layout=compact" width="60%" alt="boodeyman" /> &nbsp;</p>
+<h3 align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boodeyman&theme=dark&" width="60%" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boodeyman&theme=dark&show_icons=true&locale=en" width="60%" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boodeyman&theme=dark&show_icons=true&locale=en&layout=compact" width="60%" alt="boodeyman" /> &nbsp;</p></h3>
