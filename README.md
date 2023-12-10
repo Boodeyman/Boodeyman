@@ -21,4 +21,4 @@
 
 - 📫 How to reach me **bogdafan31@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boodeyman&theme=dark&" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boodeyman&theme=dark&show_icons=true&locale=en" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boodeyman&theme=dark&show_icons=true&locale=en&layout=compact" alt="boodeyman" /> &nbsp;</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boodeyman&theme=dark&" width="40%" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boodeyman&theme=dark&show_icons=true&locale=en" width="38%" alt="boodeyman" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boodeyman&theme=dark&show_icons=true&locale=en&layout=compact" width="40%" alt="boodeyman" /> &nbsp;</p>
